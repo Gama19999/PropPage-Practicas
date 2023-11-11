@@ -1377,7 +1377,8 @@
 }
 
 .u-section-5 .u-image-1 {
-  background-image: url("../images/289d0988df9ccafe391c5a296f327b0e.png");
+  background-image: url("../images/platicas_ceumh.jpg");
+  object-fit: cover;
   min-height: 315px;
   transition-duration: 0.5s;
   background-position: 50% 50%;
@@ -1413,7 +1414,8 @@
 }
 
 .u-section-5 .u-image-3 {
-  background-image: url("../images/dcd4c46d0ca35931cafdc77fd8bb3568-37.png");
+  background-image: url("../images/instalaciones.jpg");
+  background-size: 210%;
   background-position: 50% 50%;
   min-height: 315px;
   transition-duration: 0.5s;
@@ -1431,7 +1433,7 @@
 }
 
 .u-section-5 .u-image-4 {
-  background-image: url("../images/60daec789521593f3dd91cb1bb3d7d60-38.png");
+  background-image: url("../images/lab-computo.png");
   background-position: 50% 50%;
   min-height: 287px;
   transition-duration: 0.5s;
@@ -1449,7 +1451,7 @@
 }
 
 .u-section-5 .u-image-5 {
-  background-image: url("../images/dca2e7f841dc5201337d6b80dfffe9f6-39.png");
+  background-image: url("../images/biblioteca.webp");
   background-position: 50% 50%;
   min-height: 287px;
   transition-duration: 0.5s;
@@ -1468,7 +1470,7 @@
 
 .u-section-5 .u-image-6 {
   min-height: 287px;
-  background-image: url("../images/516d0cf7e883585853018116d942949c-40.png");
+  background-image: url("../images/recreacion.jpg");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -2006,7 +2008,7 @@
 }
 
 .u-section-6 .u-image-1 {
-  background-image: url("../images/289d0988df9ccafe391c5a296f327b0e.png");
+  background-image: url("../images/sala_multiple.jpg");
   background-position: 50% 50%;
   min-height: 287px;
   transition-duration: 0.5s;
@@ -2024,7 +2026,7 @@
 }
 
 .u-section-6 .u-image-2 {
-  background-image: url("../images/f6999cf8d7fee900e76ee65fd1827c4f.png");
+  background-image: url("../images/wifi.webp");
   background-position: 50% 50%;
   min-height: 287px;
   transition-duration: 0.5s;
@@ -2042,8 +2044,8 @@
 }
 
 .u-section-6 .u-image-3 {
-  background-image: url("../images/dcd4c46d0ca35931cafdc77fd8bb3568.png");
-  background-position: 50% 50%;
+  background-image: url("../images/cafeteria.jpg");
+  background-position: 50% 70%;
   min-height: 287px;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
@@ -2060,7 +2062,7 @@
 }
 
 .u-section-6 .u-image-4 {
-  background-image: url("../images/60daec789521593f3dd91cb1bb3d7d60.png");
+  background-image: url("../images/cancha_futbol.jpg");
   background-position: 50% 50%;
   min-height: 287px;
   transition-duration: 0.5s;
@@ -2079,7 +2081,7 @@
 }
 
 .u-section-6 .u-image-5 {
-  background-image: url("../images/dca2e7f841dc5201337d6b80dfffe9f6.png");
+  background-image: url("../images/cancha_basquet.jpg");
   background-position: 50% 50%;
   min-height: 287px;
   transition-duration: 0.5s;

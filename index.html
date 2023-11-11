@@ -58,6 +58,12 @@
       ::-webkit-scrollbar-button:vertical:end:decrement {
         display: none;
       }
+      video {
+        border-radius: 10px;
+      }
+      video:focus {
+        outline: none;
+      }
     </style>
     
     
@@ -238,10 +244,16 @@
         </p>
         <a href="https://www.facebook.com/watch/?v=3578731215785030" class="u-active-black u-black u-border-none u-border-radius-50 u-btn u-btn-round u-button-style u-hover-white u-radius-8 u-text-active-white u-text-hover-black u-btn-1" target="_blank" data-animation-name="customAnimationIn" data-animation-duration="1500">Más información</a>
         <div class="u-clearfix u-custom-html u-expanded-width u-hidden-md u-hidden-sm u-hidden-xs u-custom-html-1" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="500">
-          <!--iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCEUMH.Hidalgo%2Fvideos%2F3578731215785030%2F&amp;width=900&amp;show_text=false&amp;height=413&amp;appId" width="900" height="413" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe-->
+          <!--iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCEUMH.Hidalgo%2Fvideos%2F3578731215785030%2F&amp;width=900&amp;show_text=false&amp;height=413&amp;appId" width="900" height="413" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe-->
+          <video controls width="900" height="413" loading="lazy">
+            <source src="./files/CEUMH.mp4" type="video/mp4">
+          </video>
         </div>
         <div class="u-clearfix u-custom-html u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-hidden-lg u-hidden-xl u-custom-html-2">
-          <!--iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCEUMH.Hidalgo%2Fvideos%2F3578731215785030%2F&amp;width=300&amp;show_text=false&amp;height=169&amp;appId" width="300" height="169" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe-->
+          <!--iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCEUMH.Hidalgo%2Fvideos%2F3578731215785030%2F&amp;width=300&amp;show_text=false&amp;height=169&amp;appId" width="300" height="169" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe-->
+          <video controls width="300" height="169" loading="lazy">
+            <source src="./files/CEUMH.mp4" type="video/mp4">
+          </video>
         </div>
       </div>
     </section>
