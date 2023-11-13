@@ -1,6 +1,7 @@
  .u-section-1 {
   background-image: url("../images/classmates-friends-bag-school-educationcopy.jpg");
   background-position: 50% 50%;
+  background-size: contain;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -308,7 +309,7 @@
 
 .u-section-4 .u-list-1 {
   width: 1140px;
-  margin: -112px auto 13px;
+  margin: 50px auto 13px;
 }
 
 .u-section-4 .u-repeater-1 {
